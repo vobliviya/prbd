@@ -1,0 +1,51 @@
+html {
+	background-color: #FDFDF0; /*Комментарий*/
+	padding-top: 30px;
+	padding: 40px;
+	background: linear-gradient(#FDFDF0, #293f50);
+}
+body {
+	width: 80%;
+	
+	border: 3px dashed #900000;
+	padding: 15px;
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 25px rgba(0,0,0,0.7);
+	background: url(./images/bg_page.png) repeat-x;
+	background-color: #750; 
+}
+p {
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: #2A74AA;
+	font-size: 16pt;
+	margin-top: 20px;
+	margin-left: 60px;
+}
+h1, h2 {
+	color: rgb(195,94,12);
+}
+h1 {
+	font-size: 120px;
+}
+h2 { 
+	border-bottom: 2px white solid;
+	background: url(./images/head-icon.png) no-repeat 10px 10px;
+	padding: 0 0 2px 60px;
+	margin: 0;
+}
+.intro {
+	color: #E1E1E1;
+	font-size: 1.4em;
+	margin-left: 0;
+	margin-bottom: 25px;
+}
+address {
+	font-size: 1.25em;
+	color: #919191;
+	line-height: 150%;
+	margin-top: 20px;
+	margin-left: 60px;
+}

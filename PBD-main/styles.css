@@ -1,0 +1,22 @@
+html {
+	background-color: #FDFDF0; /*Комментарий*/
+	padding: 40px;
+	background: linear-gradient(#FDFDF0, #293f50);
+}
+body {
+	background-color: #F0FFF0; /*Комментарий*/
+	border: 3px dashed #900000;
+	padding: 25px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.7);
+	background: url(./images/bg_page.png) repeat-x;
+}
+p {
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: #6A94CC;
+	font-size: 16pt;
+}
+h1, h2 {
+	color: rgb(195,94,12);
+}
